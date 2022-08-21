@@ -5,4 +5,5 @@ Ethics documentation submitted for human behavioural research experiments
   - [ ] Protocol research proposal
   - [ ] Peer review documents
   - [ ] Participation information statement and [consent form](https://forms.gle/JxuH49C92vv84o5F8)
-  - [ ] [Peer Review of PhD Milestone 1 Research Proposal]()
+  - [ ] Peer Review of PhD Milestone 1 Research Proposal: [Reviwer A](https://github.com/david-flanders-tuke/PhD/blob/d10b455134104147d667432ab5f67957c24117f2/M1%20Reviewer%20Report%20MCASI%202022%20DFT.pdf) & [Reviewer B](https://github.com/david-flanders-tuke/PhD/blob/11c3290edbf03bc3942a36f7a9b3dc56c8f4d5d6/M1%20Reviewer%20Report%20MCASI%202021%20DFT.pdf)
+  - [ ] [Research data management plan]()
