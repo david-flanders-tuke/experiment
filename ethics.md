@@ -1,5 +1,5 @@
 # Ethics for human behavioural experiments
-Ethics documentation submitted for human behavioural research experiments
+Application documents required by the Curtin University Ethics Committee for human behavioural research experiments.  Submitted to: HREC@curtin.edu.au
 
   - [ ] [Recruitment materials](https://docs.google.com/document/d/e/2PACX-1vTZQjmH6SIhlCPkLpSLI-cYw7SmgfZQRK67xOKBnkaP8GidrgNy21BA18d9UHQR1mu2tDHAfjn_bTaG/pub)
   - [ ] [Research proposal](https://docs.google.com/document/d/e/2PACX-1vRPuu9uZiOlt4zYs68jyo2qRrZ65PkuA5ld5JV2jz9aSvyLNDCrWJsoqvvvS1XRag/pub)
