@@ -3,8 +3,7 @@
   - (1) Universities in Australian (and around the Western OECD academic world) face a dynamic set of imperative strategic changes, especially post pandemic research funding models which are provided by tax-payer funded ARC grants.
   - (2) Universities are faced with an economic obligation to demonstrate their value to a democratic market economy, beyond perceived "academic authority".  Tax-payer funded research programmes are increasingly limited and require well-grounded evidence to assure continued funding has real-world value.
   - (3) In economic terms, research-intensive Universities, must align with OECD established norms to provide "market value" which justifies University funded resources as tax-payer investmented products.
-
-(4) Key questions to be answered using Elinor Ostrom's game-theory experimental approach include: (a) What value do research academics prescribe to their work? (b) How do we value the research products they produce for both scholarly and public consumption; and (c) Why should researchers act collectively to allocate resources to demonstrate tax-payer value?
+  - (4) Key questions to be answered using Elinor Ostrom's game-theory experimental approach include: (a) What value do research academics prescribe to their work? (b) How do we value the research products they produce for both scholarly and public consumption; and (c) Why should researchers act collectively to allocate resources to demonstrate tax-payer value?
 
 # Experimental Methods:
 
