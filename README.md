@@ -12,6 +12,10 @@
 
 (2) The proposed research will experiment with groups of researchers in a game setting, whereby participants will place bids wtihin a marketplace exchanging resources for ARC grant funding opportunities.  The outcomes will be analysed by a marketplace-type, known as an asymetric payoff table.  This type of economic game provides insights into how groups act collaboratively to achieve optimal outcomes, as defined by mathematcial efficiency measurements.
 
-# Experimental Aim: How do researchers engage as a group to manage their access to common pool resource marketplaces, such as grant funding.
+# Experimental Aim & Hypothesis 
 
-## Hypothesis: The results of this reproduced experiment will be evaluated against the original experiment's hypothesis.  Researchers will act in groups to prioritise: (a) personal identiy layers as value generation, (b) group-context layers for product value generation, and/or (c) material pay-off for individual and/or group context value generation.
+  - How do researchers engage as a group to manage their access to common pool resource marketplaces, such as grant funding.
+  - Hypothesis: The results of this reproduced experiment will be evaluated against the original experiment's hypothesis.  Researchers will act in groups to prioritise: 
+    - [ ] (a) personal identiy layers as value generation, 
+    - [ ] (b) group-context layers for product value generation, and/or 
+    - [ ] (c) material pay-off for individual and/or group context value generation.
