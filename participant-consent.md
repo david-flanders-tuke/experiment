@@ -3,6 +3,7 @@ To agree to participate in this experiment, please provide your digital consent 
 
 https://policy.university/ethics_consent
 
+## Terms & Conditions
 This experiment is being conducted to study how people make decisions in a group setting. You will be asked to play a game where you will make decisions about how to allocate resources. Your responses will be recorded and used to analyze how people make decisions in a group.
 
 Your participation is voluntary. You can choose to participate or not. You can also withdraw from the experiment at any time.
