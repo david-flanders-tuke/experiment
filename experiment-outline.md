@@ -1,7 +1,48 @@
-# Experiment on Time Allocation in Collaborative Settings
+# Experiment on Resource Allocation in Collaborative Settings
+
+Welcome to the Time Allocation Game!
+
+## Objective:
+
+As a group, you will work together to allocate your time resources to achieve the best possible outcome for the team.
+
+### Gameplay:
+Round-by-round bidding: In each round, you will bid the amount of time you want to allocate to different priorities.  There are three types of rounds which will be played during the game:
+
+  - [ ] Silent bidding: The first few rounds will be silent bidding rounds. This will help us establish a baseline for how you typically allocate your time.
+  - [ ] Discussion rounds: After the silent bidding rounds, you will have the opportunity to discuss your strategies with each other.
+  - [ ] Sanctions: In some rounds, there will be joint rules enforced through sanctions. These rules will affect how you can allocate your time.
+
+### Goal:
+
+The goal of the game is to avoid depleting the total resource available to the team while striving for an optimal level of individual and/or team efficiency.
+
+### Participation:
+
+To participate in the experiment, you must be:
+
+  - [ ] An academic working in the same area of research
+  - [ ] Familiar with the work of the other participants
+  - [ ] A native English speaker
+  - [ ] Have received or applied for Australian Research Council (ARC) funds
+
+### Experiment Duration:
+
+The experiment will take approximately two hours to complete.
+
+### Learning Objectives:
+
+Through this experiment, we hope to gain a better understanding of how individuals make time allocation decisions in real-world collaborative settings. This information can be used to develop improved group collaboration theories and shed light on the impact of institutional variables on resource allocation dilemmas.
+
+##  Additional Information:
+
+ - [ ] The rules of the game will be explained at the start of each round.
+ - [ ] The exact number of rounds and game variations will depend on the discussions from participants and the total time allocated to the game.
+
+# Why play an experimental game?
 
 ## Purpose
-This experiment aims to study how individuals make time allocation decisions in real-world collaborative settings. The research will explore how factors such as reciprocity, influence, reputation, trust, risk, uncertainty, motivation, bias, and environmental variables affect these decisions.
+This experiment aims to study how individuals make time allocation decisions in real-world collaborative settings. The research will explore how factors such as reciprocity, influence, reputation, trust, risk, uncertainty, motivation, bias, and policy variables affect these decisions.
 
 ## Research Questions
 The research seeks to address two main questions:
