@@ -31,3 +31,5 @@ There are no known risks associated with participating in this experiment. Howev
   - [ ] Your participation will be confidential. Your name and other identifying information will not be used in any publications or reports.
 
 If you have any questions, please contact the experiment moderator.
+
+Cite this page: https://policy.university/participant-consent-conditions
