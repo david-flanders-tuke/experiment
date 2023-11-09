@@ -1,7 +1,23 @@
 # Experiment participant consent form
-To agree to participate in this experiment, please provide your digital consent here:
+To agree to participate in this experiment, please provide your digital signature here:
 
 https://policy.university/ethics_consent
+
+By signing the above form, I acknowledge and agree to the following:
+
+  - I have read and understood the Participant Information Sheet.]
+  - I understand the purpose, scope, and potential risks of participating in this research project.
+  - I have had the opportunity to ask questions and receive satisfactory answers.
+  - I freely consent to participate in this research project and understand that I may withdraw from the project at any time without consequences.
+  - I will receive a copy of this Consent Form for my records.
+  - I understand that this research project has been approved by Curtin University Human Research Ethics Committee and will be conducted in accordance with the National Statement on Ethical Conduct in Human Research (2007).
+
+Specifically, I consent to the following:
+
+ - [ ] The recording of my participation in the group game.
+ - [ ] The analysis of my round-by-round scores in the group game.
+ - [ ] The transcription of my post-game interview and/or survey.
+ - [ ] The use of anonymized quotes from the game, post-game interview, and/or survey in publications.
 
 ## Terms & Conditions
 This experiment is being conducted to study how people make decisions in a group setting. You will be asked to play a game where you will make decisions about how to allocate resources. Your responses will be recorded and used to analyze how people make decisions in a group.
