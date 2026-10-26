@@ -1,20 +1,17 @@
-# Experiment Background:
+This repository houses the simulation framework and agent configurations for an interactive experiment testing how public sector leaders manage shared resources. By combining classical behavioral economics with modern artificial intelligence, this project provides a safe, virtual sandbox for testing municipal policies before they are implemented in the real world.
 
-  - (1) Universities in Australian (and around the Western OECD academic world) face a dynamic set of imperative strategic changes, especially post pandemic research funding models which are provided by tax-payer funded ARC grants.
-  - (2) Universities are faced with an economic obligation to demonstrate their value to a democratic market economy, beyond perceived "academic authority".  Tax-payer funded research programmes are increasingly limited and require well-grounded evidence to assure continued funding has real-world value.
-  - (3) In economic terms, research-intensive Universities, must align with OECD established norms to provide "market value" which justifies University funded resources as tax-payer investmented products.
-  - (4) Key questions to be answered using Elinor Ostrom's game-theory experimental approach include: (a) What value do research academics prescribe to their work? (b) How do we value the research products they produce for both scholarly and public consumption; and (c) Why should researchers act collectively to allocate resources to demonstrate tax-payer value?
+**The Foundation: Ostrom and Cárdenas**
+In the late 1990s, Nobel Laureate Elinor Ostrom and behavioral economist Juan Camilo Cárdenas ran groundbreaking field experiments, such as observing Colombian villagers managing local forests. Before their work, traditional economics assumed that shared resources inevitably led to a "Tragedy of the Commons," where selfish individuals deplete a resource unless controlled by strict top-down mandates or privatization. Ostrom and Cárdenas proved that when real people are allowed to communicate and design their own local rules, they frequently cooperate and manage resources sustainably.
 
-# Experimental Methods:
+**The Evolution: From Field Trials to AI Sandboxes**
+While the original experiments revolutionized our understanding of human cooperation, running them requires gathering large groups of participants, which is costly, slow, and difficult to scale for modern administrative problems. This project evolves that Nobel-winning methodology by replacing the large human cohorts with generative artificial intelligence. Instead of coordinating a room full of people, we use advanced multi-agent frameworks, specifically integrating tools like Concordia and Scion, to simulate a dynamic community.
 
-(1) Reproduce and adapt the orignal game-theoretic economic experiments by Ostrom et al to evaluate government funding (ARC grants) as "marketplaces".  Beahvioural economic experiments provide a framework to quantitatively (and qualitatively) measure the efficiency of group behaviours within "marketplaces".  For example a traditional marketplace has goods for sale and prices set for the exchange of those goods (known as "one shot" marketplaces), for example Amazon online store demonstrates a "one-shot" marketplace.  Scholarly products and assets are not as easily defined or traded as commodities within traditional economics, however economics in recent years has started to define other types of marketplaces which are quantifiable.  Most notably the work of Elinor Ostrom and other "game-theory" researchers have won Noble prizes for these alternative market models.
+**The Current Experiment: An N-of-1 Digital Twin**
+This experiment operates as a clinical "N-of-1" trial designed for a single human participant, such as a municipal executive or department director. The human leader acts as the policymaker, while the AI proxy agents act as the citizens, contractors, or staff affected by those policies.
 
-(2) The proposed research will experiment with groups of researchers in a game setting, whereby participants will place bids wtihin a marketplace exchanging resources for ARC grant funding opportunities.  The outcomes will be analysed by a marketplace-type, known as an asymetric payoff table.  This type of economic game provides insights into how groups act collaboratively to achieve optimal outcomes, as defined by mathematcial efficiency measurements.
+When the leader introduces a new rule—such as a rigid mandate for curbside loading zones or talent allocation—the digital twin simulates how the AI agents will react. If the policy is overly blunt, the simulation demonstrates the resulting loopholes, gridlock, or resource hoarding. This provides immediate, risk-free biofeedback. The ultimate goal is to measure if interacting with this simulation helps the human leader abandon ineffective command-and-control habits and instead design cooperative, highly efficient rules that benefit the entire system.
 
-# Experimental Aim & Hypothesis 
+Does this level of detail feel right for the repository's main audience, or should we include a brief section specifically defining what "Generative Agent-Based Modeling" means in this context?
 
-  - How do researchers engage as a group to manage their access to common pool resource marketplaces, such as grant funding.
-  - Hypothesis: The results of this reproduced experiment will be evaluated against the original experiment's hypothesis.  Researchers will act in groups to prioritise: 
-    - [ ] (a) personal identiy layers as value generation, 
-    - [ ] (b) group-context layers for product value generation, and/or 
-    - [ ] (c) material pay-off for individual and/or group context value generation.
+* Would you like to include a specific placeholder in this text for a diagram or flowchart illustrating the biofeedback loop between the leader and the agents?
+* Should we add a brief section detailing the specific technical prerequisites (e.g., Python, Azure DevOps) needed to run the simulation locally?
