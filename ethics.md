@@ -1,10 +1,15 @@
-# Ethics for human behavioural experiments
-Application documents required by the Curtin University Ethics Committee for human behavioural research experiments.  Submitted to: HREC@curtin.edu.au
+### 1. Curtin University Ethics Approval
 
-  - [ ] [Recruitment materials](https://docs.google.com/document/d/e/2PACX-1vTZQjmH6SIhlCPkLpSLI-cYw7SmgfZQRK67xOKBnkaP8GidrgNy21BA18d9UHQR1mu2tDHAfjn_bTaG/pub)
-  - [ ] [Research proposal](https://docs.google.com/document/d/e/2PACX-1vRPuu9uZiOlt4zYs68jyo2qRrZ65PkuA5ld5JV2jz9aSvyLNDCrWJsoqvvvS1XRag/pub)
-  - [ ] [Research experiment protocols](https://docs.google.com/document/d/e/2PACX-1vTfoZzw8Rfu9PcWGIOfpb6icVQsCVttICJhCaKnXoA1RJ_lRMoh1CDvVXjo9OW5aMEOUxFMCDVAa_3n/pub)
-  - [ ] [Participation information statement]() and [consent form](https://forms.gle/JxuH49C92vv84o5F8)
-  - [ ] Peer Review of PhD Milestone 1 Research Proposal: [Reviwer A](https://github.com/david-flanders-tuke/PhD/blob/d10b455134104147d667432ab5f67957c24117f2/M1%20Reviewer%20Report%20MCASI%202022%20DFT.pdf) & [Reviewer B](https://github.com/david-flanders-tuke/PhD/blob/11c3290edbf03bc3942a36f7a9b3dc56c8f4d5d6/M1%20Reviewer%20Report%20MCASI%202021%20DFT.pdf)
-  - [ ] [Research data management plan](https://github.com/david-flanders-tuke/PhD/blob/main/ResearchDataManagementPlan_NEYLOD-VC10077.pdf)
-  - [ ] [Resaearch integrity training certificate](https://github.com/david-flanders-tuke/PhD/blob/main/ResearchIntegrityTraining-Blackboard.png)
+* **Project Title:** *The games researchers play: measuring collaboration in the institution*
+* **Approval Number:** `HRE2025-0382` (Low Risk Review Process)
+* **Approval Period:** 17 July 2025 – 16 July 2026
+* **Investigators:** Karl Huang (CI), Cameron Neylon (CI), David Flanders (PostGrad)
+* **Scope & Key Conditions:** Covers face-to-face reproductions of the Ostrom/Cárdenas Common Property Resource (CPR) experiments; requires adherence to the *National Statement on Ethical Conduct in Human Research*, prior approval for amendments, annual/final reporting, and sharing results with participants.
+
+### 2. The University of Melbourne Ethics Approval
+
+* **Project Title:** *Improving Suboptimal Resource Management in Australian Public Services*
+* **Reference Number:** `2026-33001-78908-3`
+* **Approval Period:** 2 April 2026 – 2 April 2031
+* **Investigators:** Dr. Pablo Franco Ulloa (Supervisor), Dr. Karl Huang & David Flanders Tuke (External Investigators)
+* **Scope & Key Conditions:** Covers mixed-methods sessions (~50 professionals in 10-person markets, 90 minutes) combining tailored Economic Experimental Games (Dictator, Ultimatum, Trust, Prisoner's Dilemma, Public Goods, Commons Dilemma), qualitative interviews, and personality measures (HEXACO-PI-R, IPIP-NEO, Facet MAP); requires prior approval for variations, immediate incident reporting, annual reports by February 28, and a final report.
