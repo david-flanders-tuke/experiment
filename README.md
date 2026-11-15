@@ -6,7 +6,3 @@ In the late 1990s, Nobel Laureate Elinor Ostrom and behavioral economist Juan Ca
 **The Evolution: From Field Trials to AI Sandboxes**
 While the original experiments revolutionized our understanding of human cooperation, running them requires gathering large groups of participants, which is costly, slow, and difficult to scale for modern administrative problems. This project evolves that Nobel-winning methodology by replacing the large human cohorts with generative artificial intelligence. Instead of coordinating a room full of people, we use advanced multi-agent frameworks, specifically integrating tools agent-based-modelling, to simulate a dynamic community.
 
-**The Current Experiment: An N-of-1 Digital Twin**
-This experiment operates as a clinical "N-of-1" trial designed for a single human participant, such as a municipal executive or department director. The human leader acts as the policymaker, while the AI proxy agents act as the citizens, contractors, or staff affected by those policies.
-
-When the leader introduces a new rule—such as a rigid mandate for curbside loading zones or talent allocation—the digital twin simulates how the AI agents will react. If the policy is overly blunt, the simulation demonstrates the resulting loopholes, gridlock, or resource hoarding. This provides immediate, risk-free biofeedback. The ultimate goal is to measure if interacting with this simulation helps the human leader abandon ineffective command-and-control habits and instead design cooperative, highly efficient rules that benefit the entire system.
