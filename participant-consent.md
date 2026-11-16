@@ -45,10 +45,7 @@
 
 # Experiment Participant Consent Form
 
-> **Digital Signature Portal:** To agree to participate in this experiment, please provide your digital signature here:  
-> 🔗 **[https://policy.university/ethics_consent](https://policy.university/ethics_consent)**
-
-By signing the above form, I acknowledge and agree to the following:
+By signing the form, I acknowledge and agree to the following:
 
 * I have read and understood the Participant Information Sheet.
 * I understand the purpose, scope, and potential risks of participating in this research project.
@@ -93,8 +90,6 @@ There are no known risks associated with participating in this experiment. Howev
 - [ ] Your participation will be confidential. Your name and other identifying information will not be used in any publications or reports.
 
 If you have any questions, please contact the experiment moderator.
-
-> **Cite this page:** [https://policy.university/participant-consent-conditions](https://policy.university/participant-consent-conditions)
 
 ---
 
