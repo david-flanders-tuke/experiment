@@ -23,7 +23,7 @@ This study employs a mixed-methods experimental design adapting the Cárdenas & 
 
 * **Participants & Staged Rollout:**
   * **Group Structure:** Bounded groups of $n \in [5, 7]$ English-speaking academic researchers within the same discipline or research network who have applied for or received ARC grant funding.
-  * **Stage 1 (Alpha):** Trial workshops with local Curtin University research groups ($5$–$8$ participants).
+  * **Stage 1 (Alpha):** Trial workshops with local University research groups (5-8 participants).
   * **Stage 2 (Beta):** Workshops with research teams across Australian universities and academic conferences (conducted face-to-face using online bidding forms or remotely via Microsoft Teams).
 * **Round-by-Round Action Arena (Minimum 7 Rounds, ~90 Minutes):**
   1. **Baseline Silent Bidding Rounds:** Participants independently allocate bounded time budgets across individual vs. collective research priorities without communication. Payoffs are governed by an asymmetric payoff table where aggregate over-bidding depletes the shared resource pool, operationalising scarcity and the Tragedy of the Commons.
@@ -62,14 +62,13 @@ This study employs a mixed-methods experimental design adapting the Cárdenas & 
 
 Conducted through the Centre for Brain, Mind and Markets (Department of Finance, University of Melbourne) in collaboration with Curtin University, this study combines incentive-compatible Economic Experimental Games (EEGs), qualitative motivation elicitation, psychometric profiling, and multi-agent computational simulation.
 
-Rather than making statistical inferences to the general population, the study treats each professional domain—academic researchers, emergency service workers, building construction certifiers/surveyors, and insurance professionals—as a bounded micro-population census. Real human decision profiles are de-identified and transformed into calibrated computational agents to simulate $7$-person CPR marketplaces (mirroring the group size of Cárdenas & Ostrom, 2004) under varying levels of information asymmetry and institutional governance.
+Rather than making statistical inferences to the general population, the study treats each professional public sector leader (domain—academic researchers, emergency service workers, building construction certifiers/surveyors, and insurance professionals) as a bounded micro-population census. Real human decision profiles are de-identified and transformed into calibrated computational agents to simulate 5to8 person CPR marketplaces (mirroring the group size of Cárdenas & Ostrom, 2004) under varying levels of information asymmetry and institutional governance.
 
 ### 2.2 Experimental Design
 
-* **Sample Size & Combinatorial Robustness Design ($N \approx 50$ Total):**
-  * Approximately $50$ professionals are recruited across sectors, structured into domain-specific pools of $m \approx 10$ participants per experimental marketplace.
-  * **Why 10 participants for a 7-player game?** Calibrating $10$ distinct agent profiles for a $7$-agent simulation ($k = 7$) provides a rigorous census of a closed micro-population while enabling $\binom{10}{7} = 120$ combinatorial agent line-ups per market. Researchers systematically "swap out" individual personality and behavioural profiles to test structural robustness and sensitivity to specific behavioural archetypes (e.g., conditional cooperators vs. free-riders).
-* **Two-Part Elicitation Protocol (60–90 Minutes via Qualtrics & Microsoft Teams):**
+* **Sample Size & Combinatorial Robustness Design:**
+  * Approximately 50 professionals are recruited across sectors, structured into domain-specific pools of $m \approx 10$ participants per experimental marketplace.
+* **Two-Part Elicitation Protocol (60–90 Minute structured interviews):**
   1. **Part A — Incentive-Compatible Choice Scenarios (EEGs):** Participants make quantitative resource-allocation choices across a curated battery of validated economic games (compensated via an AUD 10 show-up fee + performance-linked payout up to AUD 150, following Cummings et al., 1995; Hertwig & Ortmann, 2001):
      * **Dictator Game (DG):** Pure altruism and baseline pro-sociality.
      * **Ultimatum Game (UG):** Strategic fairness, inequity aversion, and negative reciprocity/punishment.
@@ -82,7 +81,7 @@ Rather than making statistical inferences to the general population, the study t
      * Immediately following quantitative choices, structured follow-up prompts capture expectations of peers, conditional adaptation after observing low group contributions, and risk/loss framing strategies.
      * Participants complete selected, validated psychometric scales mapping personality traits to game-theoretic parameters (targeted facets from BFI-2, HEXACO-100, IPIP-30 NEO, and Facet MAP, alongside demographic controls and validated self-reported data-quality checks from Rad et al., 2018 and Wood et al., 2017).
 * **In Silico Simulation & Optional Verification Interview:**
-  * De-identified empirical data calibrates computational agents operating in simulated $7$-player CPR markets to test institutional rules and information-sharing regimes without exposing human systems to untested policy friction.
+  * De-identified empirical data calibrates computational agents operating in simulated ~7-player CPR markets to test institutional rules and information-sharing regimes without exposing human systems to untested policy friction.
   * **Optional Member-Checking Follow-Up:** Participants may review the simulation outputs generated from the calibrated market and verify or critique how accurately the model reflects their reasoning.
 
 ### 2.3 Proposed Data Analysis
@@ -91,10 +90,10 @@ Rather than making statistical inferences to the general population, the study t
   * Quantitative EEG choices and psychometric facet scores are mapped across six ontological behavioural tiers: Pro-Sociality & Fairness, Trust & Dependability, Negative Reciprocity & Altruistic Punishment, Strategic Thinking ($k$-Level Reasoning), Risk Tolerance & Loss Aversion (Prospect Theory), and Conflict/Governance Style.
   * Data quality is screened using reverse-coded attention and effort items prior to agent parameterisation.
 * **Computational Market & Robustness Analysis:**
-  * Simulated $7$-agent CPR games evaluate system-level resource sustainability, depletion rates, information-asymmetry distortions, and institutional rule performance against Nash Equilibrium and Pareto Efficiency benchmarks.
+  * Simulated 7-agent CPR games evaluate system-level resource sustainability, depletion rates, information-asymmetry distortions, and institutional rule performance against Nash Equilibrium and Pareto Efficiency benchmarks.
   * **Profile-Swapping Sensitivity Analysis:** Comparing outcome distributions across combinatorial agent subsets isolates the marginal impact of specific personality traits and cognitive biases on collective resource stability.
 * **Qualitative Thematic & Verification Analysis:**
-  * Recorded interviews are transcribed via Microsoft Teams, de-identified, and thematically coded to link stated cognitive heuristics with observed quantitative choices—capturing dynamic, state-dependent adaptation rather than static behavioural labels.
+  * Recorded interviews are transcribed, de-identified, and thematically coded to link stated cognitive heuristics with observed quantitative choices—capturing dynamic, state-dependent adaptation rather than static behavioural labels.
   * Feedback from optional post-simulation follow-up interviews provides qualitative validation (member checking) of simulation fidelity.
 
 ---
@@ -110,7 +109,7 @@ To uphold research integrity across both universities and protect participants, 
    * Personal identifiers are separated and stripped from transcripts, survey matrices, and gameplay logs before statistical analysis or computational agent calibration.
    * Under Part 2's Extended Consent provisions, only fully de-identified datasets and aggregated simulation parameters are retained for reproducible research repositories—never raw identifiable interview recordings.
 3. **Enterprise Data Security:**
-   * **Curtin University (`HRE2025-0382`):** Identifiable/re-identifiable working files and archival backups are stored exclusively on Curtin's secure enterprise R: drive and OAIC-compliant Australian cloud infrastructure; virtual sessions use university-approved Microsoft Teams.
+   * **Curtin University (`HRE2025-0382`):** Identifiable/re-identifiable working files and archival backups are stored exclusively on Curtin's secure enterprise Research drives and OAIC-compliant Australian cloud infrastructure; virtual sessions use university-approved Microsoft Teams.
    * **University of Melbourne (`2026-33001-78908-3`):** Survey instruments run on university-licensed Qualtrics, transcriptions are processed via University-approved Microsoft Teams, and research records are managed on password-protected University of Melbourne research storage servers restricted to named investigators.
 
 ---
